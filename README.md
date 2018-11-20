@@ -7,13 +7,13 @@ As requested, client_credentials only for a start
  ```
 git clone https://github.com/iamtankist/oidc.git
 cd oidc
-yarn install
+yarn
 yarn start
 ```
 
 ### Usage
 
-
+In another terminal window
 
 ```bash
 # Getting access_token with client credentials
