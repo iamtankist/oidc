@@ -5,7 +5,7 @@ As requested, client_credentials only for a start
 ### Setup
 
  ```
-git clone git@github.com:iamtankist/oidc.git
+git clone https://github.com/iamtankist/oidc.git
 cd oidc
 yarn install
 yarn start
